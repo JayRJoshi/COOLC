@@ -1,0 +1,6 @@
+~*
+*.d
+*.out
+*.o
+diff
+out
